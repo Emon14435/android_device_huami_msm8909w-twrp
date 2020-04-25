@@ -5,7 +5,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := xihu
+PRODUCT_DEVICE := msm8909w
 PRODUCT_NAME := omni_xihu
 PRODUCT_BRAND := huami
 PRODUCT_MODEL := Amazfit Smartwatch2
