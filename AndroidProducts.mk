@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_xihu.mk
+    $(LOCAL_DIR)/omni_msm8909w.mk
