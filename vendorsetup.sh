@@ -1,2 +1,2 @@
-add_lunch_combo omni_xihu-eng
-add_lunch_combo omni_xihu-userdebug
+add_lunch_combo omni_msm8909w-eng
+add_lunch_combo omni_msm8909w-userdebug
